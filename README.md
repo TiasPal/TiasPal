@@ -22,15 +22,30 @@
 ---
 
 ### 🌟 About Me
-Name: Tias
+Name: Tias Pal
 Focus: Web Development | Data Science | UI/UX
 Hobbies: 🎮 Gaming | 🎵 Music | ✈️ Traveling
 
 Tech Stack & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,js,react,html,css,bootstrap,mysql,git,github,vscode,figma" /> </p>
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TiasPal&show_icons=true&theme=tokyonight" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiasPal&theme=tokyonight" width="49%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="60%" /> </p>
+### 📈 GitHub Stats
+
+#### 🔹 Overall Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TiasPal&show_icons=true&theme=tokyonight" width="70%" />
+</p>
+
+#### 🔹 Current Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiasPal&theme=tokyonight" width="70%" />
+</p>
+
+#### 🔹 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiasPal&layout=compact&theme=tokyonight" width="60%" />
+</p>
+
 
 🚀 Highlight Projects
 🛍️ TrendNest – A full-featured e-commerce app with analytics and wishlist support.
