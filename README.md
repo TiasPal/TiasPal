@@ -30,7 +30,7 @@ Tech Stack & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,js,react,html,css,bootstrap,mysql,git,github,vscode,figma" /> </p>
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="49%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="60%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TiasPal&show_icons=true&theme=tokyonight" width="49%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiasPal&theme=tokyonight" width="49%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="60%" /> </p>
 
 🚀 Highlight Projects
 🛍️ TrendNest – A full-featured e-commerce app with analytics and wishlist support.
@@ -41,4 +41,4 @@ Tech Stack & Tools
 📧 Email: pal.tias2007@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/tias-pal-148890316/
 🐦 Twitter: https://x.com/PalTias
-<p align="center"> <b>Thanks for visiting! ⭐️ Feel free to check out my repositories and drop a star if you like something!</b> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Happy+Coding!+🚀;Let's+Build+Something+Awesome+Together!+💡" /> </p> ```
+<p align="center"> <b>Thanks for visiting! ⭐️ Feel free to check out my repositories and drop a star if you like something!</b> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Happy+Coding!+🚀;Let's+Build+Something+Awesome+Together!+💡" /> </p> 
