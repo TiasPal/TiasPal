@@ -1,59 +1,93 @@
-<h1 align="center">Hi there! 👋 I'm Tias Pal</h1>
 
+<!-- Banner -->
 <p align="center">
-  💻 Coder | 🚀 Open Source Enthusiast | 🎯 Lifelong Learner  
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20I'm%20Tias%20Pal!%20🚀&fontAlign=50&fontColor=FFFFFF&color=0:141e30,100:243B55" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/TiasPal">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views" />
-  </a>
-  <a href="mailto:pal.tias2007@gmail.com.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Lover;Flask%2C+Python%2C+MySQL+Fan;UI%2FUX+Obsessed;Let%E2%80%99s+Build+Something+Cool+Together!">
+</p>
+
+<!-- Social Icons -->
+<p align="center">
+  <a href="mailto:pal.tias2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tias-pal-148890316/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/PalTias">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/TiasPal">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🌟 About Me
-Name: Tias Pal
-Focus: Web Development | Data Science | UI/UX
-Hobbies: 🎮 Gaming | 🎵 Music | ✈️ Traveling
+## 🧠 About Me
 
-Tech Stack & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,flask,js,react,html,css,bootstrap,mysql,git,github,vscode,figma" /> </p>
+```yaml
+🎓 Name: Tias Pal
+🛠️ Role: Full Stack Developer | UI/UX Explorer
+🌍 Focus: Web Dev • Data Science • Design Thinking
+🧩 Building: TrendNest – Smart E-Commerce Platform
+🎮 Hobbies: Music | Gaming | Tech Experiments
+```
 
-### 📈 GitHub Stats
+---
 
-#### 🔹 Overall Contributions
+## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiasPal&show_icons=true&theme=tokyonight" width="70%" />
+  <img src="https://skillicons.dev/icons?i=python,flask,js,react,html,css,bootstrap,mysql,git,github,vscode,figma&theme=dark" />
 </p>
 
-#### 🔹 Current Streak
+---
+
+## 📊 GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiasPal&theme=tokyonight" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TiasPal&show_icons=true&count_private=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiasPal&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
-#### 🔹 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiasPal&layout=compact&theme=tokyonight" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiasPal&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
+---
 
-🚀 Highlight Projects
-🛍️ TrendNest – A full-featured e-commerce app with analytics and wishlist support.
+## 🔥 TrendNest
 
-📬 Let's Connect!
-💬 I’m always open to discussing ideas, collaborating on projects, or just chatting about tech & innovation.
+> 🚀 **TrendNest** is a sleek, analytics-powered e-commerce web app with wishlist alerts, admin dashboards, and real-time data visualizations.
 
-📧 Email: pal.tias2007@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/tias-pal-148890316/
-🐦 Twitter: https://x.com/PalTias
-<p align="center"> <b>Thanks for visiting! ⭐️ Feel free to check out my repositories and drop a star if you like something!</b> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Happy+Coding!+🚀;Let's+Build+Something+Awesome+Together!+💡" /> </p> 
+- 🧰 **Stack:** Python, Flask, JavaScript, MySQL, HTML, CSS
+- 🛍️ [Check it out on GitHub](https://github.com/TiasPal/TrendNest)
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TiasPal&theme=github-compact&bg_color=0d1117&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- 📬 **Email**: pal.tias2007@gmail.com  
+- 💼 **LinkedIn**: [Tias Pal](https://www.linkedin.com/in/tias-pal-148890316/)  
+- 🐦 **Twitter**: [@PalTias](https://x.com/PalTias)  
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4DD0E1&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+👋;Star+your+favorite+repo+⭐;Keep+Coding+🔥" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:243B55,100:141e30" />
+</p>
