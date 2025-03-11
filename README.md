@@ -13,7 +13,8 @@
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Lover;Flask%2C+Python%2C+MySQL+Fan;UI%2FUX+Obsessed;Let%E2%80%99s+Build+Something+Cool+Together!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Flask%2C+Python%2C+MySQL;UI%2FUX+Obsessed;++Let%E2%80%99s+Build+Something+Cool+Together!" />
+
 </p>
 
 <!-- Social Icons -->
