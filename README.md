@@ -66,27 +66,17 @@ Currently focused on
 ---
 
 
-# CODING PROFILES
+## 💻 Coding Profiles
+
+<p align="center"> <a href="https://leetcode.com/u/Tias_Pal/"> <img src="https://leetcard.jacoblin.cool/Tias_Pal?theme=dark&font=Fira%20Code&ext=contest"/> </a>
 
 <p align="center">
 
-<a href="https://leetcode.com/u/Tias_Pal/">
-
-<img src="https://leetcard.jacoblin.cool/Tias_Pal?theme=dark&font=Fira%20Code&ext=contest"/>
-
-</a>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=PalTias&theme=dark"/>
 
 </p>
 
-<br>
 
-<p align="center">
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=PalTias"/>
-
-</p>
-
----
 # FEATURED PROJECTS
 
 ---
@@ -154,35 +144,16 @@ Current contributions include
 
 ---
 
-# CONTRIBUTION GRAPH
+## 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TiasPal&theme=github-compact&bg_color=000000&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TiasPal&theme=react-dark&hide_border=true&bg_color=000000&color=ffffff&line=ff3131&point=ffffff"/>
 
 </p>
 
 ---
 
-# DEVELOPMENT METRICS
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiasPal&theme=github_dark"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiasPal&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiasPal&theme=github_dark&utcOffset=5.5"/>
-
-</p>
-
----
 
 <p align="center">
 
