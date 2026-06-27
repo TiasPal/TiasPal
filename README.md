@@ -1,84 +1,205 @@
+<!-- ========================================================= -->
+<!--                        HERO SECTION                        -->
+<!-- ========================================================= -->
 
-<!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20I'm%20Tias%20Pal!%20🚀&fontAlign=50&fontColor=FFFFFF&color=0:141e30,100:243B55" />
+<img src="assets/banner.png" width="100%">
 </p>
 
-<!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1DB954&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Flask%2C+Python%2C+MySQL;UI%2FUX+Obsessed;++Let%E2%80%99s+Build+Something+Cool+Together!" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=CSE+Undergraduate+%40+KIIT+University;Competitive+Programmer;Full+Stack+Developer;Building+Projects+That+Matter;Grinding+DSA+Every+Day;Learning+In+Public." />
 
 </p>
 
-<!-- Social Icons -->
 <p align="center">
-  <a href="mailto:pal.tias2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tias-pal-148890316/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/TiasPal">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="mailto:pal.tias2007@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tias-pal-148890316/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://github.com/TiasPal">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/Tias_Pal/">
+<img src="https://img.shields.io/badge/LeetCode-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="https://codeforces.com/profile/PalTias">
+<img src="https://img.shields.io/badge/Codeforces-111111?style=for-the-badge"/>
+</a>
+
+</p>
+
+# ABOUT
+
+I enjoy solving algorithmic problems and building products from scratch.
+
+My goal isn't just to learn frameworks—it's to become a strong software engineer with solid computer science fundamentals.
+
+Currently focused on
+
+- Data Structures & Algorithms
+- Competitive Programming
+- Full Stack Development
+- Backend Engineering
+- Open Source
+- AI & Machine Learning
+
+> **Consistency over everything.**
+
+---
+
+# TECH STACK
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,react,js,html,css,mysql,git,github,vscode&theme=dark"/>
+
 </p>
 
 ---
 
-## 🧠 About Me
 
-```yaml
-🎓 Name: Tias Pal
-🌍 Focus: Web Dev • Data Science • Design Thinking  • AI and ML
-```
+# CODING PROFILES
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Tias_Pal/">
+
+<img src="https://leetcard.jacoblin.cool/Tias_Pal?theme=dark&font=Fira%20Code&ext=contest"/>
+
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=PalTias"/>
+
+</p>
+
+---
+# FEATURED PROJECTS
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 TrendNest
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,js,react,html,css,tailwind,bootstrap,mysql,git,github,vscode,figma&theme=dark" />
+> Full Stack E-Commerce Platform
+
+<img src="https://img.shields.io/badge/STATUS-Completed-success?style=for-the-badge"/>
+
+An end-to-end e-commerce platform built from scratch with a focus on backend engineering and clean UI.
+
+### Features
+
+- Secure User Authentication
+- Shopping Cart
+- Order Management
+- Admin Dashboard
+- MySQL Database
+- Flask Backend
+- Responsive Design
+
+### Tech Used
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask"/>
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql"/>
+
 </p>
 
 ---
 
-- 🧰 **Stack:** Python, JavaScript, MySQL, HTML, CSS
-- 
+## 🌍 Open Source
 
-## 📊 GitHub Stats
+Contributing to open source to improve engineering skills through real-world collaboration.
+
+Current contributions include
+
+- TheAlgorithms/C++
+- Documentation Improvements
+- Refactoring
+- Data Structure Implementations
+
+---
+
+# GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TiasPal&show_icons=true&count_private=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiasPal&theme=github-dark&hide_border=true" width="48%" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TiasPal&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TiasPal&theme=github-dark&hide_border=true"/>
+
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiasPal&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiasPal&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🗺️ Contribution Graph
+# CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TiasPal&theme=github-compact&bg_color=0d1117&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TiasPal&theme=github-compact&bg_color=000000&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Let's Connect!
+# CONTRIBUTION CALENDAR
 
-- 📬 **Email**: pal.tias2007@gmail.com  
-- 💼 **LinkedIn**: [Tias Pal](https://www.linkedin.com/in/tias-pal-148890316/) 
+<p align="center">
+
+<img src="https://ghchart.rshah.org/TiasPal" />
+
+</p>
+
+> 🟩 The chart above recreates GitHub's contribution heatmap, showing your active contribution days.
 
 ---
 
-<!-- Farewell Typing -->
+# DEVELOPMENT METRICS
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=4DD0E1&center=true&vCenter=true&width=450&lines=Thanks+for+visiting+👋;Star+your+favorite+repo+⭐;Keep+Coding+🔥" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiasPal&theme=github_dark"/>
+
 </p>
 
-<!-- Footer Banner -->
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:243B55,100:141e30" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TiasPal&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TiasPal&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+---
+
+<p align="center"> <b>THANKS FOR VISITING.</b> </p>
+
+<p align="center">
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:243B55,100:141e30" />
+
 </p>
