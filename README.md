@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=CSE+Undergraduate+%40+KIIT+University;Competitive+Programmer;Full+Stack+Developer;Building+Projects+That+Matter;Grinding+DSA+Every+Day;Learning+In+Public." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=FF3131&center=true&vCenter=true&width=900&lines=Competitive+Programmer;Full+Stack+Developer;Building+Projects+That+Matter;Grinding+DSA+Every+Day;Learning+In+Public." />
 
 </p>
 
