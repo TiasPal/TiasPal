@@ -164,18 +164,6 @@ Current contributions include
 
 ---
 
-# CONTRIBUTION CALENDAR
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/TiasPal" />
-
-</p>
-
-> 🟩 The chart above recreates GitHub's contribution heatmap, showing your active contribution days.
-
----
-
 # DEVELOPMENT METRICS
 
 <p align="center">
@@ -196,10 +184,8 @@ Current contributions include
 
 ---
 
-<p align="center"> <b>THANKS FOR VISITING.</b> </p>
-
 <p align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:243B55,100:141e30" />
+ <img src="assets/footer.png" width="100%">
 
 </p>
